@@ -1,2 +1,2 @@
 # mvc_python
-práctica de clase
+prtc
